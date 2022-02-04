@@ -19,8 +19,7 @@ body{
 
 .logo{
     float: right;
-    display: grid;
-    margin-right: 35ch;
+    margin-right: 40ch;
 }
 
 .content{
